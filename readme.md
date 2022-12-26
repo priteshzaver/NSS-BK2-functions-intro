@@ -1,0 +1,1 @@
+The purpose of this project is to use a function to console log 2 different messages depending on the if/else statement within the function.
